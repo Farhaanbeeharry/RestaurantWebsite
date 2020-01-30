@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="menu-style.xsl"?>
+<!DOCTYPE menu SYSTEM "menu.dtd">
+<menu>
+    <Beverages>
+        <foodstuff>
+            <name>Soft drinks</name>
+            <info>330ml</info>
+            <choice>Coca Cola, Coca Cola Light, Fanta, Sprite</choice>
+            <price>1,10 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Tonic Kinley</name>
+            <info>200ml</info>
+            <choice>Bitter Lemon, Ginger Ale, Tonic Water</choice>
+            <price>1,30 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Nestea</name>
+            <info>200 ml</info>
+            <choice>Nestea Lemon, Nestea Peach</choice>
+            <price>1,50 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Cappy</name>
+            <info>200ml</info>
+            <choice>Cappy Apple, Cappy Orange, Cappy Lemon, Cappy Grape, Cappy Cherry, Cappy Banana, Cappy Raspberry</choice>
+            <price>1,50 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Mineral Water</name>
+            <info>250ml</info>
+            <choice>Bonaqua Sparkling, Bonaqua Medium, Bonaqua Still</choice>
+            <price>1,10 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Energy Drink</name>
+            <info>250ml</info>
+            <choice>Lucozade, Red Bull, Burn, Monster Energy</choice>
+            <price>2,90 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Coffee</name>
+            <info>--</info>
+            <choice>Espresso, Cappuccino, Latte Macchiato, Black Coffee, Hot Chocolate, Iced Coffee</choice>
+            <price>2,30 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Tea</name>
+            <info>--</info>
+            <choice>Tea With Milk, Tea With Lemon</choice>
+            <price>1,20 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Beer</name>
+            <info>330ml</info>
+            <choice>Clausthaler, Pilsner Urquell, Krombacher</choice>
+            <price>2,20 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Scotch Whiskey</name>
+            <info>40ml</info>
+            <choice>Ballantine's, Grant's, Chivas Regal, Johnnie Walker</choice>
+            <price>3,90 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Cognac</name>
+            <info>40ml</info>
+            <choice>Hennessy, Origin</choice>
+            <price>3,90 €</price>
+        </foodstuff>
+    </Beverages>
+	    <CraftCocktail>
+        <foodstuff>
+            <name>The Lush</name>
+            <info>--</info>
+            <choice>Deep Eddy Grapefruit Vodka/ Campari Sparkling Wine/ Expressed Orange</choice>
+            <price>10,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Grandfathers Auld Fashioned</name>
+            <info>--</info>
+            <choice>Spirit, Sugar, Bitters, Cherry, Orange, Soda</choice>
+            <price>8,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Hemingway Daiquiri</name>
+            <info>--</info>
+            <choice>Plantation Rum, Grapefruit Juice, Lime Juice, Luxardo, Simple Syrup</choice>
+            <price>12,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Aviation Cocktail</name>
+            <info>--</info>
+            <choice>Gin, Lemon Juice, Luxardo, Créme de Violette</choice>
+            <price>11,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>I Knew a Girl Named Nicki…</name>
+            <info>--</info>
+            <choice>Vodka, Canton, Sour, Ginger Beer and Lime</choice>
+            <price>15,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Spring Optimism</name>
+            <info>--</info>
+            <choice>Bombay, Canton, Lillet, Simple Syrup, Peychaud’s Bitters</choice>
+            <price>10,0 €</price>
+        </foodstuff>
+    </CraftCocktail>
+    <Appetizers>
+        <foodstuff>
+            <name>Artichoke and Spinach Dip</name>
+            <info>--</info>
+            <choice>Tuscan bread served with a delicious blend of spinach, artichoke, and cream.</choice>
+            <price>8,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Bruschetta</name>
+            <info>--</info>
+            <choice>Grilled country bread with Roma tomatoes, olive oil, garlic and basil.</choice>
+            <price>8,95 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Stuffed Mushrooms</name>
+            <info>--</info>
+            <choice>Mushrooms caps baked with a filling of three choice cheeses, breadcrumbs and clams.</choice>
+            <price>7,5 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Fried Calamari</name>
+            <info>--</info>
+            <choice>Breaded calamari, lightly fried in canola oil. Served with a side of marinara.</choice>
+            <price>8,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Four Cheese Garlic Bread</name>
+            <info>--</info>
+            <choice>Toasted French bread topped with romano, cheddar, jack and parmesan, with a light layer of roasted garlic butter.</choice>
+            <price>4,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Shrimp Scampi</name>
+            <info>--</info>
+            <choice>Jumbo shrimp sauteed in white wine, butter and garlic.</choice>
+            <price>10,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>French Fries</name>
+            <info>--</info>
+            <choice>Hand cut wedges of Yukon Gold potatoes fried in canola oil and tossed with truffle sea salt.</choice>
+            <price>6,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Chicken Wings</name>
+            <info>Bone-In or Boneless</info>
+            <choice>Served with blue cheese or ranch dressing/ celery sticks</choice>
+            <price>7 pcs for 8,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Chinese Style Crab Rangoons</name>
+            <info>--</info>
+            <choice>Cream cheese/ Wonton wrap/ deep fried to golden perfection</choice>
+            <price>8,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Fireside Nachos</name>
+            <info>--</info>
+            <choice>BBQ grilled chicken, sharp white cheddar sauce, jalapeno</choice>
+            <price>8,0 €</price>
+        </foodstuff>
+
+    </Appetizers>
+
+    <Entrees>
+        <foodstuff>
+            <name>Catfish Bites</name>
+            <info>6 oz. of catfish bites lightly dusted with corn meal and deep fried</info>
+            <choice>chili sauce , hot pepper</choice>
+            <price>6,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Braised Short Rib</name>
+            <info>creamy polenta, baby vegetables, beef jus</info>
+            <choice>chili sauce , hot pepper</choice>
+            <price>10,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Crispy Skin Salmon</name>
+            <info>beluga lentils, shaved fennel salad, citrus herb beurre blanc</info>
+            <choice>chili sauce , hot pepper</choice>
+            <price>9,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Jidori Chicken Scallpini</name>
+            <info> roasted pee wee potatoes, artichokes, lacinato kale, truffle chicken jus</info>
+            <choice>chili sauce , hot pepper</choice>
+            <price>6,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Filet Mignon</name>
+            <info>8 ounces, santa carota beef roasted tomatoes on the vine, bearnaise, sauce</info>
+            <choice>chili sauce , hot pepper</choice>
+            <price>7,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Crad's Meat</name>
+            <info>Baked with braised heart of palm and sabayon</info>
+            <choice>chili sauce , hot pepper</choice>
+            <price>10,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Chicken Liver</name>
+            <info>Salad with strawberry vinaigrette</info>
+            <choice>chili sauce , hot pepper</choice>
+            <price>8,0 €</price>
+        </foodstuff>
+
+        <foodstuff>
+            <name>Scallop</name>
+            <info>Pan fried with potato and truffles</info>
+            <choice>chili sauce , hot pepper</choice>
+            <price>5,0 €</price>
+        </foodstuff>
+    </Entrees>
+
+    <MainDish>
+        <foodstuff>
+            <name>Ruby Snapper</name>
+            <info>Seared with capres, olive and dry tomato sauce</info>
+            <choice>hot chili sauce, rice, bread, toast</choice>
+            <price>14,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Tuna</name>
+            <info>half grilled with mustard cream</info>
+            <choice>hot chili sauce, rice, bread, toast</choice>
+            <price>12,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Capitaine/ Vacoas/ Vieille</name>
+            <info>Whole marinated with herbs and spices, grilled in oven(Rs 150 per 100gms)</info>
+            <choice>hot chili sauce, rice, bread, toast</choice>
+            <price>11,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Octopus</name>
+            <info>Curry with herbs and spices</info>
+            <choice>hot chili sauce, rice, bread, toast</choice>
+            <price>16,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Dorado</name>
+            <info>Marinated with spices and herbs, cooked in banana leaf</info>
+            <choice>hot chili sauce, rice, bread, toast</choice>
+            <price>14,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Seafood Platter (2 persons)</name>
+            <info>Mussels, lobster, gambas, crab, calamari, tiger prawns, fish, oysters, razor clams braised in olive oil.</info>
+            <choice>hot chili sauce, rice, bread, toast</choice>
+            <price>42,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Lamb Filet</name>
+            <info>Seared with strawberry vinegar</info>
+            <choice>hot chili sauce, rice, bread, toast</choice>
+            <price>15,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Chicken And Prawn</name>
+            <info>Curry with fresh spinach</info>
+            <choice>hot chili sauce, rice, bread, toast</choice>
+            <price>14,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Duck Magret</name>
+            <info>Pan with mild spices, mushroom, plum sauce</info>
+            <choice>hot chili sauce, rice, bread, toast</choice>
+            <price>13,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Thin Cuts Of Beef</name>
+            <info>Sauteed in spicy creole sauce</info>
+            <choice>hot chili sauce, rice, bread, toast</choice>
+            <price>16,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Chicken Breast</name>
+            <info>Stuffed with asparagus and cheese cream</info>
+            <choice>hot chili sauce, rice, bread, toast</choice>
+            <price>13,5 €</price>
+        </foodstuff>
+    </MainDish>
+
+    <Desserts>
+        <foodstuff>
+            <name>Banana Split Mudd Pie</name>
+            <info>--</info>
+            <choice>chocolate, strawberry and banana ice cream fudge swirl, marshmallow almond crunch</choice>
+            <price>5,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Callebaut Chocolate Volcano</name>
+            <info>--</info>
+            <choice>raspberry puree, blood orange sorbet</choice>
+            <price>6,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Apple Cobbler</name>
+            <info>--</info>
+            <choice>macadamia streusel, rum butterscotch, vanilla ice cream</choice>
+            <price>6,5 €</price>
+        </foodstuff>
+       <foodstuff>
+            <name>Classic Keoke Coffee</name>
+            <info>Adults only</info>
+            <choice>Kahlua, cognac, crème de cacao, cream</choice>
+            <price>8,0 €</price>
+        </foodstuff>
+        <foodstuff>
+            <name>Bourbon Heater</name>
+            <info>Adults only</info>
+            <choice>buffalo trace bourbon, espresso, caramel</choice>
+            <price>10,0 €</price>
+        </foodstuff>
+    </Desserts>
+</menu>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+        <!ELEMENT menu (Beverages|CraftCocktail|Appetizers|Entrees|MainDish|Desserts)*>
+        <!ELEMENT Beverages (foodstuff)*>
+        <!ELEMENT foodstuff (name|info|choice|price)*>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT info (#PCDATA)>
+        <!ELEMENT choice (#PCDATA)>
+        <!ELEMENT price (#PCDATA)>
+        <!ELEMENT CraftCocktail (foodstuff)*>
+        <!ELEMENT Appetizers (foodstuff)*>
+        <!ELEMENT Entrees (foodstuff)*>
+        <!ELEMENT MainDish (foodstuff)*>
+        <!ELEMENT Desserts (foodstuff)*>
+
